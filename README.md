@@ -43,24 +43,21 @@
 ---
 
 ### 🌟 Featured Projects  
-📌 **Smart Queue Management System**  
-    _🌟 Featured Projects
 
-    📌 Roomora
+    _📌 Roomora
     An interactive platform for managing and exploring virtual rooms and events.
     🧱 Tech: React, Node.js, MongoDB
-    🔗 [View repo](https:github.com.rishi-09/roomora)
+    🔗 [View Repository](https:github.com.rishi-09/roomora)
 
-    📌 Simon Says Game
+    _📌 Simon Says Game
     A fun, web-based memory game that challenges players to repeat sequences.
     🧱 Tech: HTML, CSS, JavaScript
-    🔗 [View repo](https:github.com.rishi-09/simon-says-game)
+    🔗 [View Repository](https:github.com.rishi-09/simon-says-game)
 
-    📌 Portfolio
+    _📌 Portfolio
     Showcase of my projects, skills, and professional profile in a sleek, interactive format.
     🧱 Tech: HTML, CSS, JavaScript
-    🔗 [View repo](https:github.com.rishi-09/portfolio)
-    ---
+    🔗 [View Repository](https:github.com.rishi-09/portfolio)
 
 ### 📊 GitHub Stats  
 
