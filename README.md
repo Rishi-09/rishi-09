@@ -42,22 +42,22 @@
 
 ---
 
-### 🌟 Featured Projects  
+### 🌟 Featured Projects
 
-    _📌 Roomora
-    An interactive platform for managing and exploring virtual rooms and events.
-    🧱 Tech: React, Node.js, MongoDB
-    🔗 [View Repository](https:github.com.rishi-09/roomora)
+_📌 Roomora  
+An interactive platform for managing and exploring virtual rooms and events.  
+🧱 Tech: React, Node.js, MongoDB  
+🔗 [View Repository](https://github.com/rishi-09/roomora)
 
-    _📌 Simon Says Game
-    A fun, web-based memory game that challenges players to repeat sequences.
-    🧱 Tech: HTML, CSS, JavaScript
-    🔗 [View Repository](https:github.com.rishi-09/simon-says-game)
+_📌 Simon Says Game  
+A fun, web-based memory game that challenges players to repeat sequences.  
+🧱 Tech: HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/rishi-09/simon-says-game)
 
-    _📌 Portfolio
-    Showcase of my projects, skills, and professional profile in a sleek, interactive format.
-    🧱 Tech: HTML, CSS, JavaScript
-    🔗 [View Repository](https:github.com.rishi-09/portfolio)
+_📌 Portfolio  
+Showcase of my projects, skills, and professional profile in a sleek, interactive format.  
+🧱 Tech: HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/rishi-09/portfolio)
 
 ### 📊 GitHub Stats  
 
