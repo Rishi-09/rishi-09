@@ -15,10 +15,12 @@
 
 #### 💻 Languages  
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" />
 </p>
 
 #### ⚙️ Frameworks & Libraries  
@@ -31,26 +33,34 @@
 
 #### 🛠️ Tools & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects  
 📌 **Smart Queue Management System**  
-_Revolutionizing how people wait — digital tokens, real-time tracking, and queue optimization._  
-🧱 Tech: React, Express, Node.js, MongoDB  
-🔗 [View Repository](https://github.com/rishi-09/smart-queue)
+    _🌟 Featured Projects
 
-📌 **AgriScan + Smart Advisor**  
-_AI-driven agricultural assistant that scans pesticide packs and simulates crop outcomes._  
-🧱 Tech: MERN Stack, Computer Vision APIs  
-🔗 [View Repository](https://github.com/rishi-09/agriscan)
+    📌 Roomora
+    An interactive platform for managing and exploring virtual rooms and events.
+    🧱 Tech: React, Node.js, MongoDB
+    🔗 [View repo](https:github.com.rishi-09/roomora)
 
----
+    📌 Simon Says Game
+    A fun, web-based memory game that challenges players to repeat sequences.
+    🧱 Tech: HTML, CSS, JavaScript
+    🔗 [View repo](https:github.com.rishi-09/simon-says-game)
+
+    📌 Portfolio
+    Showcase of my projects, skills, and professional profile in a sleek, interactive format.
+    🧱 Tech: HTML, CSS, JavaScript
+    🔗 [View repo](https:github.com.rishi-09/portfolio)
+    ---
 
 ### 📊 GitHub Stats  
 
