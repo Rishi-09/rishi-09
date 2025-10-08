@@ -25,10 +25,12 @@
 
 #### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" />
 </p>
 
 #### 🛠️ Tools & Platforms  
@@ -36,34 +38,34 @@
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Cloudinary-FF5C00?logo=cloudinary&logoColor=fff&style=for-the-badge" />
+
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
-_📌 Roomora  
-An interactive platform for managing and exploring virtual rooms and events.  
-🧱 Tech: React, Node.js, MongoDB  
+### 📌 Roomora  
+An interactive platform for managing and exploring virtual rooms and events with Proper authentication and Aurthorization.  
+🧱 Tech: Node.js, MongoDB , Express.js , BootStrap
 🔗 [View Repository](https://github.com/rishi-09/roomora)
 
-_📌 Simon Says Game  
+### 📌 Simon Says Game  
 A fun, web-based memory game that challenges players to repeat sequences.  
 🧱 Tech: HTML, CSS, JavaScript  
 🔗 [View Repository](https://github.com/rishi-09/simon-says-game)
 
-_📌 Portfolio  
+### 📌 Portfolio  
 Showcase of my projects, skills, and professional profile in a sleek, interactive format.  
-🧱 Tech: HTML, CSS, JavaScript  
+🧱 Tech: HTML, CSS, JavaScript , Express.js
 🔗 [View Repository](https://github.com/rishi-09/portfolio)
 
 ### 📊 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishi-09&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishi-09&theme=radical" />
 </p>
 
 ---
