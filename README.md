@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Cloudinary-FF5C00?logo=cloudinary&logoColor=fff&style=for-the-badge" />
-
+    <img src="https://img.shields.io/badge/Passport.js-34E27A?logo=passport&logoColor=000&style=for-the-badge" />
 </p>
 
 ---
