@@ -67,7 +67,7 @@ Showcase of my projects, skills, and professional profile in a sleek, interactiv
 🎉 I’m excited to share that I’ve officially **hosted my first project!**  
 I built this **Simon Says Game** a while ago using **HTML, CSS, and JavaScript**,  
 
-🕹️ **Play it here:** [https://simon-says-rishi.vercel.app](https://simon-says-rishi.vercel.app)  
+🕹️ **Play it here:** [https://simon-says-rishi.vercel.app](https://simon-says-game-khaki-two.vercel.app/)  
 
 It’s a simple, fun **memory-based color sequence game** where you test how long you can follow Simon’s pattern.  
 
