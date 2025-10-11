@@ -50,7 +50,9 @@
 ### 📌 Roomora  
 An interactive platform for managing and exploring virtual rooms and events with Proper authentication and Aurthorization.  
 🧱 Tech: Node.js, MongoDB , Express.js , BootStrap
-🔗 [View Repository](https://github.com/rishi-09/roomora)
+🔗 You can try it live here: [https://roomora-sm0v.onrender.com/](https://roomora-sm0v.onrender.com/)
+
+
 
 ### 📌 Simon Says Game  
 A fun, web-based memory game that challenges players to repeat sequences.  
