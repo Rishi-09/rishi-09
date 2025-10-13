@@ -49,7 +49,7 @@
 
 ### 📌 Roomora  
 An interactive platform for managing and exploring virtual rooms and events with Proper authentication and Aurthorization.  
-🧱 Tech: Node.js, MongoDB , Express.js , BootStrap
+🧱 Tech: Node.js, MongoDB , Express.js , BootStrap.
 🔗 You can try it live here: [https://roomora-sm0v.onrender.com/](https://roomora-sm0v.onrender.com/)
 
 
@@ -57,31 +57,13 @@ An interactive platform for managing and exploring virtual rooms and events with
 ### 📌 Simon Says Game  
 A fun, web-based memory game that challenges players to repeat sequences.  
 🧱 Tech: HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/rishi-09/simon-says-game)
+🔗 [Play it here](https://simon-says-game-khaki-two.vercel.app)
 
 ### 📌 Portfolio  
 Showcase of my projects, skills, and professional profile in a sleek, interactive format.  
 🧱 Tech: HTML, CSS, JavaScript , Express.js
 🔗 [View Repository](https://github.com/rishi-09/portfolio)
 
-## 🚀 My First Hosted Project
-
-🎉 I’m excited to share that I’ve officially **hosted my first project!**  
-I built this **Simon Says Game** a while ago using **HTML, CSS, and JavaScript**,  
-
-🕹️ **Play it here:** [https://simon-says-rishi.vercel.app](https://simon-says-game-khaki-two.vercel.app/)  
-
-It’s a simple, fun **memory-based color sequence game** where you test how long you can follow Simon’s pattern.  
-
----
-
-
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishi-09&show_icons=true&theme=radical" />
-</p>
 
 ---
 
