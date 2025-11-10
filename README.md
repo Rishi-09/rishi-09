@@ -60,7 +60,7 @@ A fun, web-based memory game that challenges players to repeat sequences.
 🧱 Tech: HTML, CSS, JavaScript  
 
 
-### [Portfolio](https://github.com/rishi-09/portfolio)
+### 📌 [Portfolio](https://github.com/rishi-09/portfolio)
 Showcase of my projects, skills, and professional profile in a sleek, interactive format.  
 🧱 Tech: HTML, CSS, JavaScript, Express.js  
 
@@ -68,12 +68,14 @@ Showcase of my projects, skills, and professional profile in a sleek, interactiv
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="center" >
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rishi-09&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-09&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img   height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-09&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rishi-09&theme=tokyonight" align="center">
+<p align="center" >
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=rishi-09&theme=tokyonight" >
+</p>
 
 ### 🤝 Connect with Me  
 <p align="center">
