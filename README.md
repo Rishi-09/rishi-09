@@ -73,6 +73,7 @@ Showcase of my projects, skills, and professional profile in a sleek, interactiv
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-09&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rishi-09&theme=tokyonight" align="center">
 
 ### 🤝 Connect with Me  
 <p align="center">
