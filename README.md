@@ -59,12 +59,6 @@ An interactive platform for managing and exploring virtual rooms and events with
 A fun, web-based memory game that challenges players to repeat sequences.  
 🧱 Tech: HTML, CSS, JavaScript  
 
-
-### 📌 [Portfolio](https://github.com/rishi-09/portfolio)
-Showcase of my projects, skills, and professional profile in a sleek, interactive format.  
-🧱 Tech: HTML, CSS, JavaScript, Express.js  
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -82,8 +76,9 @@ Showcase of my projects, skills, and professional profile in a sleek, interactiv
   <a href="https://linkedin.com/in/rishi215" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge" />
   </a>
-  <a href="https://github.com/rishi-09" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
+  <a href="https://react-portfolio-ft9t.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+</a>
  <a href="mailto:rishikm1215@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </p>
