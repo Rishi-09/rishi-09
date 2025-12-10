@@ -62,14 +62,10 @@ A fun, web-based memory game that challenges players to repeat sequences.
 ---
 
 ### 📊 GitHub Stats
-<p align="center" >
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rishi-09&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img   height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-09&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=rishi-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rishi-09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center" >
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=rishi-09&theme=tokyonight" >
-</p>
 
 ### 🤝 Connect with Me  
 <p align="center">
