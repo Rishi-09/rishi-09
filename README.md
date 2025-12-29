@@ -50,22 +50,31 @@
 
 ## 🌟 Featured Projects
 
+### 📌 [syranx](https://syranx.vercel.app)
+- An ai text based chatbot with user memory ( context ), retains per thread memory
+- 🧱 Tech: React.js, Node.js, MongoDB, Express.js, JWT based authentication, 
+
 ### 📌 [roomora](https://roomora-sm0v.onrender.com/)
-An interactive platform for managing and exploring virtual rooms and events with proper authentication and authorization.  
-🧱 Tech: Node.js, MongoDB, Express.js, Bootstrap  
+- An interactive platform for managing and exploring virtual rooms and events with proper authentication and authorization.  
+- 🧱 Tech: Node.js, MongoDB, Express.js, Bootstrap, passport.js  
 
 
 ### 📌 [Simon Says Game](https://simon-says-game-khaki-two.vercel.app)
-A fun, web-based memory game that challenges players to repeat sequences.  
-🧱 Tech: HTML, CSS, JavaScript  
+- A fun, web-based memory game that challenges players to repeat sequences.  
+- 🧱 Tech: HTML, CSS, JavaScript  
 
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=rishi-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rishi-09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=rishi-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=rishi-09&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishi-09&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishi-09&theme=github_dark" />
+</p>
 
 ### 🤝 Connect with Me  
 <p align="center">
