@@ -50,7 +50,7 @@
 
 ## 🌟 Featured Projects
 
-### 📌 [syranx](https://syranx.vercel.app)
+### 📌 [syranx](https://syranx.tech)
 - An ai text based chatbot with user memory ( context ), retains per thread memory
 - 🧱 Tech: React.js, Node.js, MongoDB, Express.js, JWT based authentication, 
 
